@@ -24,3 +24,8 @@ A CLI Python application that parses natural language mathematical expressions w
 ### To Run
 1. Clone or download this repository
 2. Run the script
+
+### Repository Structure
+main.py: Lexical parser, tokenizer, evaluation logic, and CLI loop
+specifications.md: Project constraints and specifications
+example_4.txt: Console execution examples
