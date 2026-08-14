@@ -1,0 +1,61 @@
+As my calculator is a terminal application, I will provide input examples in the form of a text sequence with input and output indications.
+Also, the beginning of input is the same everywhere, so I will omit this part of the example and start with user input.
+
+Example 1:
+Input:
+ltjd vbyec ldf
+Output:
+Invalid input
+>
+Input:
+twenty minus st
+
+Output:
+Invalid input
+>
+Input:
+one hundred minus minus minus two
+
+Output:
+Invalid input
+>
+Input:
+one hundred minus two
+Output:
+one hundred minus two  = 98
+>
+Input:
+exit
+Output:
+Bye!
+
+Example 2:
+Input:
+nine hundred ninety nine thousand nine hundred ninety nine
+Output:
+nine hundred ninety nine thousand nine hundred ninety nine  = 999999
+>
+Input:
+quit
+Output:
+Invalid input
+>
+Input:
+exit
+Output: Bye
+
+Example 3:
+Input:
+nine hundred ninety nine thousand nine hundred ninety nine multiplied by nine hundred ninety nine thousand nine hundred ninety nine
+Output:
+nine hundred ninety nine thousand nine hundred ninety nine multiplied by nine hundred ninety nine thousand nine hundred ninety nine  = 999998000001
+>
+Input:
+one hundred divided by zero
+Output:
+You will divide by zero at university, you can't here
+>
+Input:
+exit
+Output:
+Bye!
